@@ -1,3 +1,5 @@
+This repository contains the files I created for my portifolio, that showcases my habilities with Power BI; these two primarily show more on data viz than complex calculations and/or transformations with DAX or M.
+
 Here's a snippet of the files uploaded here:
 
 === Most streamed songs on Spotify in 2023 ===
